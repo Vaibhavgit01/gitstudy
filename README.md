@@ -1,2 +1,1 @@
-# 
-Editer :- Vaibhav Kumar (Webdev)
+# Editer :- Vaibhav Kumar (Webdev)
